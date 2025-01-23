@@ -1,7 +1,0 @@
-train: C:/Users/user/Desktop/project/whole_dataset/train
-val: C:/Users/user/Desktop/project/whole_dataset/val
-test: C:/Users/user/Desktop/project/whole_dataset/test
-
-nc: 1
-names: ['Pothole']
-

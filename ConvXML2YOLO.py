@@ -2,8 +2,8 @@ import os
 import xml.etree.ElementTree as ET
 
 # Define directories
-xml_dir = 'C:/Users/WB GAMING/Desktop/pothole/archive (7)/annotations/'  # Directory containing XML files
-yolo_dir = 'C:/Users/WB GAMING/Desktop/pothole/archive (7)/outputs'  # Directory to save YOLO .txt files
+xml_dir = "C:/Users/user/Desktop/Capstone Project/datasets/archive (7)/annotations"  # Directory containing XML files
+yolo_dir = 'C:/Users/user/Desktop/Capstone Project/datasets/archive (7)/outputs'  # Directory to save YOLO .txt files
 
 # Ensure YOLO output directory exists
 os.makedirs(yolo_dir, exist_ok=True)
